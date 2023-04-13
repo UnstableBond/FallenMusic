@@ -1,4 +1,4 @@
-# MIT License
+Ji# MIT License
 #
 # Copyright (c) 2023 AnonymousX1025
 #
@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "✨ sᴏᴜʀᴄᴇ ✨",
-                        url="https://te.legra.ph/file/4c65ab8a40c4f3acd83a7.mp4",
+                        url="ᴍᴀᴀ ᴄʜᴜᴅᴀ ᴀᴘɴɪ ",
                     ),
                 ],
             ]
