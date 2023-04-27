@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="ᴍᴀᴀ ᴄʜᴜᴅᴀ ᴀᴘɴɪ "
+            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://te.legra.ph/file/4c65ab8a40c4f3acd83a7.mp4"
         ),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
